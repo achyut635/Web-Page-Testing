@@ -1,1 +1,1 @@
-# sample for testing various aspects of web page 
+# sample script for login using python and selenium
